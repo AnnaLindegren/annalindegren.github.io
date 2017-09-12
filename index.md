@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Live in Lab Stockholm, Sweden
 
-You can use the [editor on GitHub](https://github.com/AnnaLindegren/liveinlabkth.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Live in Lab is a reserach project at KTH where academia,industry and public sector study how people use, enjoy and manage space they live in.
 
 ### Markdown
 
